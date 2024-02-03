@@ -1,3 +1,11 @@
+ipynb_checkpoints/
+__pycache__/
+dataset/
+.DS_Store
+test_utils.py
+.gitignore
+.gitignore.bak
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
